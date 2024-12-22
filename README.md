@@ -1,19 +1,16 @@
 # Hi there, I'm Sky9magic! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in various areas of technology and programming.
+Welcome to my GitHub profile! I'm a passionate developer/competitive programmer with a keen interest in various areas of technology and programming.
 
 ## 🚀 About Me
 
-- 💻 I love coding and building projects that solve real-world problems.
+- 💻 I'm currently in an organization of [Junior Dev](https://juniordev.contest.codeforces.com/)
 - 🌱 Currently learning and exploring new technologies and frameworks.
 - 📫 How to reach me: [Email](mailto:sky9magic@gmail.com)
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, C++, Java
-- **Frameworks:** React, Node.js, Django, Flask
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, AWS
+- **Languages:** Python, C, C++, C#, HTML, CSS, Javascript, TSX, JSX
 
 ## 📈 GitHub Stats
 
@@ -21,9 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🏆 Achievements
 
-- Contributed to several open-source projects.
-- Participated in hackathons and coding competitions.
-- Regularly mentor and help new developers in the community.
+- Went to TOI20(Thailand Olympiad in Informatics)
 
 ## 📫 Get in Touch
 
