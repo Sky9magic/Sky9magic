@@ -16,6 +16,8 @@ Welcome to my GitHub profile! I'm a passionate developer/competitive programmer 
 
 ![Sky9magic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sky9magic&show_icons=true&theme=radical)
 
+![Sky9magic's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vEnhance&layout=compact&theme=vue&hide=PHP&langs_count=6")
+
 ## 🏆 Achievements
 
 - Went to TOI20(Thailand Olympiad in Informatics)
